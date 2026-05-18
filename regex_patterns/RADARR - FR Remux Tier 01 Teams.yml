@@ -1,6 +1,0 @@
-name: RADARR - FR Remux Tier 01 Teams
-pattern: \b(BlackAngel|Choco|HDForever|MAX|ONLY|Psaro|Sicario|Tezcat74|TyrellCorp|Zapax)\b
-description: ''
-tags:
-- radarr
-tests: []

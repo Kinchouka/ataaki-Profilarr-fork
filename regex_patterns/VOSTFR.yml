@@ -1,7 +1,0 @@
-name: VOSTFR
-pattern: \b(VOSTFR|SUBFRENCH)\b
-description: ''
-tags:
-- radarr
-- sonarr
-tests: []

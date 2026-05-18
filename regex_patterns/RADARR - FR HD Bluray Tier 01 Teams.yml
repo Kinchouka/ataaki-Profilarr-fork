@@ -1,6 +1,0 @@
-name: RADARR - FR HD Bluray Tier 01 Teams
-pattern: \b(BDHD|FoX|FRATERNiTY|FrIeNdS|MAX|Psaro|T3KASHi|SERQPH|YODA)\b
-description: ''
-tags:
-- radarr
-tests: []

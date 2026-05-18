@@ -1,6 +1,0 @@
-name: SONARR - FR WEB Tier 02 Teams
-pattern: \b(COLL3CTiF|FiND|FrIeNdS|HeavyWeight|NoNe|pERsO|POTO|RG|RiPiT|TAT)\b
-description: ''
-tags:
-- sonarr
-tests: []

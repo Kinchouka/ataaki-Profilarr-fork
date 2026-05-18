@@ -1,6 +1,0 @@
-name: RADARR - FR Remux Tier 02 Teams
-pattern: \b(BDHD|FtLi|Goldenyann|HeavyWeight|KTM|MARBLECAKE|MUSTANG|Obi|PEPiTE|Q(UEBE)?C63|ROMKENT)\b
-description: ''
-tags:
-- radarr
-tests: []

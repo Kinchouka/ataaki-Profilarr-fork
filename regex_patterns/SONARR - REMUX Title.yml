@@ -1,6 +1,0 @@
-name: SONARR - REMUX Title
-pattern: \bREMUX\b
-description: ''
-tags:
-- sonarr
-tests: []

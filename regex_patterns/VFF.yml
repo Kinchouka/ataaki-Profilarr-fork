@@ -1,7 +1,0 @@
-name: VFF
-pattern: \b(VFF|VOF|TRUEFRENCH)\b
-description: ''
-tags:
-- radarr
-- sonarr
-tests: []

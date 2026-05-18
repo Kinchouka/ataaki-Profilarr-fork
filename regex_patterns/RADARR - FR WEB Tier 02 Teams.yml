@@ -1,6 +1,0 @@
-name: RADARR - FR WEB Tier 02 Teams
-pattern: \b(ALLDAYiN|ARK01|FUJiSAN|HANAMi|HeavyWeight|NEO|NoNe|ONLYMOViE|POTO|Slay3R|TkHD|WaCkS)\b
-description: ''
-tags:
-- radarr
-tests: []
