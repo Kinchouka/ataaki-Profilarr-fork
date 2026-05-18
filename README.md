@@ -1,3 +1,7 @@
+# ⚠️ Now Support Profilarr V2 ⚠️
+### If you still use Profilarr v1, you can switch to the profilarr-v1 branch
+
+
 # French Multi Arr Custom Formats
 
 [Profilarr](https://github.com/Dictionarry-Hub/profilarr) database, based on **french release teams** (based on TRaSH Guides) with **MULTi Audio**.
